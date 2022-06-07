@@ -13,6 +13,8 @@ sites:
     url: https://www.disneyplus.com/zh-hant/redeem
   - name: line
     url: https://line.me/zh-hant/
+    - name: nothing
+    url: https://www.eeeeeee.com
     
 
 status-website:
